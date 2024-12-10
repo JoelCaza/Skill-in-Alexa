@@ -23,4 +23,4 @@ Esta skill, desarrollada en **Node.js**, combina el reconocimiento de **fotos y 
 ## ⚙️ **Instalación y configuración**  
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/Skill-in-Alexa.git
+   git clone https://github.com/JoelCaza/Skill-in-Alexa.git
